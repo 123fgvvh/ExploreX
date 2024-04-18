@@ -1,0 +1,16 @@
+-> Try using Joi(npm package) for handling schema validation more efficiently day 47 lect 6 mai joi ke kuch images hau
+-> reviews ka styling proper karni hai ,
+-> agar user database mai hai to uske liye welcome uska username aana chaiye , varna normal welcome to wanderlust
+-> improve error handling , kabhi crash kabhi nhi , error.ejs kabhi hai kabhi nhi
+-> review deletion system still not perfect , see to it yourself
+-> password retrieval mechanism not present
+-> login and signup pages pages styling left 
+-> login and signup pages individually should have login and signup options , it should like switch system bw two
+-> review input should be in form of stars starability naam ki repo hai ek seek reference 
+
+
+
+
+
+
+
