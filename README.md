@@ -42,6 +42,7 @@ ExploreX is built using the following technologies:
 - **MongoDB**: NoSQL database for storing destination data and user information
 - **Bootstrap**: Frontend framework for responsive and mobile-first design
 - **HTML, CSS, JavaScript**: Frontend languages for building user interfaces and interactivity
+- **Mapbox**: Mapping platform for integrating interactive maps into the application
 
 ## Installation
 
