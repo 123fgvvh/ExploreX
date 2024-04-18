@@ -49,7 +49,7 @@ To install ExploreX locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/ExploreX.git
+git clone https://github.com/123fgvvh/ExploreX.git
 
 # Navigate to the project directory
 cd ExploreX
@@ -66,7 +66,7 @@ Start ExploreX with the following command:
 npm start
 ```
 
-Open your web browser and navigate to `http://localhost:3000` to access the ExploreX application.
+Open your web browser and navigate to `http://localhost:8080` to access the ExploreX application.
 
 ## Contributing
 
