@@ -1,17 +1,17 @@
 {
   "engines": {
-    "node": "20.9.0"
+    "node": ">=12.0.0"
   },
   "name": "major_project_wanderlust",
   "version": "1.0.0",
-  "description": "",
-  "main": "data.js",
+  "description": "Wanderlust project",
+  "main": "app.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sajag Gupta",
+  "license": "ISC", 
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.15.5",
     "cloudinary": "^2.1.0",
